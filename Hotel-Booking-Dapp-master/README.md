@@ -13,4 +13,4 @@
 
 ![Hotel Items](https://github.com/Dickens-odera/Hotel-Booking-Dapp/tree/master/screenshots/dapp3.PNG)
 
-
+what is your purpose
