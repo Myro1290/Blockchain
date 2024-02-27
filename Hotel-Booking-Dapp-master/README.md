@@ -8,4 +8,6 @@
 ![List Hotel Form](https://github.com/Dickens-odera/Hotel-Booking-Dapp/tree/master/screenshots/dapp1.PNG)
 ![Hotel Items](https://github.com/Dickens-odera/Hotel-Booking-Dapp/tree/master/screenshots/dapp2.PNG)
 ![Hotel Items](https://github.com/Dickens-odera/Hotel-Booking-Dapp/tree/master/screenshots/dapp3.PNG)
+
 What is your opinion?
+
